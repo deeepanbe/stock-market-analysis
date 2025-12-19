@@ -1,0 +1,104 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Data files (optional - uncomment if needed)
+# data/*.csv
+# data/*.xlsx
+
+# Output files
+*.log
+*.pot
+*.mo
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Unit test / coverage
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.hypothesis/
+
+# Sphinx documentation
+docs/_build/
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.bak
+*.tmp
+.cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
